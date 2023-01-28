@@ -65,7 +65,7 @@ The major tools and languages used are:
 
 > Here is a live demo link
 
-- [Shop app]()
+- [Shop app](https://shop-app-beryl.vercel.app/)
 
 <p align="right">[<a href="#readme-top">Back to Top</a>]</p>
 
@@ -159,7 +159,7 @@ If you like this project, don't forget give a ⭐️ or buy me a coffee ☕️
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Microverse student community.
-- Nelson Sakwa on Behance
+- Nelson Sakwa on Behance for the design
 - Anyone whose code was used
 
 <p align="right">[<a href="#readme-top">Back to Top</a>]</p>
