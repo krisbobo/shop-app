@@ -65,7 +65,7 @@ The major tools and languages used are:
 
 > Here is a live demo link
 
-- [Shop app](shop-app-beryl.vercel.app)
+- [Shop app](https://shop-app-beryl.vercel.app/)
 - [Video Link](https://www.loom.com/share/c77bb7979cba492b998364be756620f4)
 
 <p align="right">[<a href="#readme-top">Back to Top</a>]</p>
