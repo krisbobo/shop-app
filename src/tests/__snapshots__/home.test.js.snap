@@ -1,0 +1,468 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Home components rendering should render Home page 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <main
+        class="home__Main-sc-1osvp4n-0 kZiaqO"
+      >
+        <h2
+          class="home__Title-sc-1osvp4n-1 lceBYY"
+        >
+          electronics (1)
+        </h2>
+        <section
+          class="products__Container-sc-1h2mq1j-0 jyLuIM"
+        >
+          <ul
+            class="products__List-sc-1h2mq1j-1 dvYPYr"
+          >
+            <li
+              class="product__Container-sc-1e87vg-0 kyufYN"
+            >
+              <div
+                class="product__ImageContainer-sc-1e87vg-3 AWPSs"
+              >
+                <img
+                  alt="title"
+                  class="product__Image-sc-1e87vg-4 ciJYtL"
+                  src="https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+                />
+              </div>
+              <div
+                class="product__DetailsContainer-sc-1e87vg-1 cZkspc"
+              >
+                <h2
+                  class="product__Title-sc-1e87vg-5 dPtzuD"
+                >
+                  title
+                </h2>
+                <div
+                  class="product__InnerDetailsContainer-sc-1e87vg-2 irHFSv"
+                >
+                  <span
+                    class="product__Price-sc-1e87vg-6 itKTaJ"
+                  >
+                    $
+                    999.99
+                  </span>
+                  <span
+                    class="product__Rating-sc-1e87vg-7 gLITru"
+                  >
+                    Rate
+                    2.2
+                  </span>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </section>
+      </main>
+    </div>
+  </body>,
+  "container": <div>
+    <main
+      class="home__Main-sc-1osvp4n-0 kZiaqO"
+    >
+      <h2
+        class="home__Title-sc-1osvp4n-1 lceBYY"
+      >
+        electronics (1)
+      </h2>
+      <section
+        class="products__Container-sc-1h2mq1j-0 jyLuIM"
+      >
+        <ul
+          class="products__List-sc-1h2mq1j-1 dvYPYr"
+        >
+          <li
+            class="product__Container-sc-1e87vg-0 kyufYN"
+          >
+            <div
+              class="product__ImageContainer-sc-1e87vg-3 AWPSs"
+            >
+              <img
+                alt="title"
+                class="product__Image-sc-1e87vg-4 ciJYtL"
+                src="https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+              />
+            </div>
+            <div
+              class="product__DetailsContainer-sc-1e87vg-1 cZkspc"
+            >
+              <h2
+                class="product__Title-sc-1e87vg-5 dPtzuD"
+              >
+                title
+              </h2>
+              <div
+                class="product__InnerDetailsContainer-sc-1e87vg-2 irHFSv"
+              >
+                <span
+                  class="product__Price-sc-1e87vg-6 itKTaJ"
+                >
+                  $
+                  999.99
+                </span>
+                <span
+                  class="product__Rating-sc-1e87vg-7 gLITru"
+                >
+                  Rate
+                  2.2
+                </span>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </section>
+    </main>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Test Home components rendering should render Product 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <li
+        class="product__Container-sc-1e87vg-0 kyufYN"
+      >
+        <div
+          class="product__ImageContainer-sc-1e87vg-3 AWPSs"
+        >
+          <img
+            alt="title"
+            class="product__Image-sc-1e87vg-4 ciJYtL"
+            src="https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+          />
+        </div>
+        <div
+          class="product__DetailsContainer-sc-1e87vg-1 cZkspc"
+        >
+          <h2
+            class="product__Title-sc-1e87vg-5 dPtzuD"
+          >
+            title
+          </h2>
+          <div
+            class="product__InnerDetailsContainer-sc-1e87vg-2 irHFSv"
+          >
+            <span
+              class="product__Price-sc-1e87vg-6 itKTaJ"
+            >
+              $
+              999.99
+            </span>
+            <span
+              class="product__Rating-sc-1e87vg-7 gLITru"
+            >
+              Rate
+              2.2
+            </span>
+          </div>
+        </div>
+      </li>
+    </div>
+  </body>,
+  "container": <div>
+    <li
+      class="product__Container-sc-1e87vg-0 kyufYN"
+    >
+      <div
+        class="product__ImageContainer-sc-1e87vg-3 AWPSs"
+      >
+        <img
+          alt="title"
+          class="product__Image-sc-1e87vg-4 ciJYtL"
+          src="https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+        />
+      </div>
+      <div
+        class="product__DetailsContainer-sc-1e87vg-1 cZkspc"
+      >
+        <h2
+          class="product__Title-sc-1e87vg-5 dPtzuD"
+        >
+          title
+        </h2>
+        <div
+          class="product__InnerDetailsContainer-sc-1e87vg-2 irHFSv"
+        >
+          <span
+            class="product__Price-sc-1e87vg-6 itKTaJ"
+          >
+            $
+            999.99
+          </span>
+          <span
+            class="product__Rating-sc-1e87vg-7 gLITru"
+          >
+            Rate
+            2.2
+          </span>
+        </div>
+      </div>
+    </li>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Test Home components rendering should render Products component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <section
+        class="products__Container-sc-1h2mq1j-0 jyLuIM"
+      >
+        <ul
+          class="products__List-sc-1h2mq1j-1 dvYPYr"
+        >
+          <li
+            class="product__Container-sc-1e87vg-0 kyufYN"
+          >
+            <div
+              class="product__ImageContainer-sc-1e87vg-3 AWPSs"
+            >
+              <img
+                alt="title"
+                class="product__Image-sc-1e87vg-4 ciJYtL"
+                src="https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+              />
+            </div>
+            <div
+              class="product__DetailsContainer-sc-1e87vg-1 cZkspc"
+            >
+              <h2
+                class="product__Title-sc-1e87vg-5 dPtzuD"
+              >
+                title
+              </h2>
+              <div
+                class="product__InnerDetailsContainer-sc-1e87vg-2 irHFSv"
+              >
+                <span
+                  class="product__Price-sc-1e87vg-6 itKTaJ"
+                >
+                  $
+                  999.99
+                </span>
+                <span
+                  class="product__Rating-sc-1e87vg-7 gLITru"
+                >
+                  Rate
+                  2.2
+                </span>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </section>
+    </div>
+  </body>,
+  "container": <div>
+    <section
+      class="products__Container-sc-1h2mq1j-0 jyLuIM"
+    >
+      <ul
+        class="products__List-sc-1h2mq1j-1 dvYPYr"
+      >
+        <li
+          class="product__Container-sc-1e87vg-0 kyufYN"
+        >
+          <div
+            class="product__ImageContainer-sc-1e87vg-3 AWPSs"
+          >
+            <img
+              alt="title"
+              class="product__Image-sc-1e87vg-4 ciJYtL"
+              src="https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+            />
+          </div>
+          <div
+            class="product__DetailsContainer-sc-1e87vg-1 cZkspc"
+          >
+            <h2
+              class="product__Title-sc-1e87vg-5 dPtzuD"
+            >
+              title
+            </h2>
+            <div
+              class="product__InnerDetailsContainer-sc-1e87vg-2 irHFSv"
+            >
+              <span
+                class="product__Price-sc-1e87vg-6 itKTaJ"
+              >
+                $
+                999.99
+              </span>
+              <span
+                class="product__Rating-sc-1e87vg-7 gLITru"
+              >
+                Rate
+                2.2
+              </span>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </section>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
